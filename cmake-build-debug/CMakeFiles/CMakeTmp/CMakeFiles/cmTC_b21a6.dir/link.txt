@@ -1,0 +1,3 @@
+C:\Users\ET\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4203.505\bin\cmake\bin\cmake.exe -E remove -f CMakeFiles\cmTC_b21a6.dir/objects.a
+C:\PROGRA~1\JETBRA~1\MinGW\bin\ar.exe cr CMakeFiles\cmTC_b21a6.dir/objects.a @CMakeFiles\cmTC_b21a6.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\MinGW\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_b21a6.dir/objects.a -Wl,--no-whole-archive  -o cmTC_b21a6.exe -Wl,--out-implib,libcmTC_b21a6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_b21a6.dir\linklibs.rsp
